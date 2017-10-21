@@ -5,7 +5,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 The following are the steps involved 
 1. Ensure that there is internet connectivity 
 2. Get the run_Analysis.R code to the current directory 
-3. Execute the file to generate the tidy file 
+3. Execute the file to generate the tidy data file 
 
 ## Code Explanation
 
